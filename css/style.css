@@ -1,0 +1,27 @@
+html,body {
+    margin: 0;
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    width: 100%;
+} 
+
+.wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+}
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.name {
+    color: red;
+    margin: 0;
+    text-align: center;
+}
